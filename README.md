@@ -1,6 +1,4 @@
-### Hi there 👋
-
-G'day. 
+### G'day 👋
 
 Aussie. Learning to code. Javascript, React, Node. <br>
 TML NFT project management. SOL. ETH. BTC.  HODL. <br>
