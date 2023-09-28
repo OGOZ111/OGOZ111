@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+G'day. 
+
+Aussie. Learning to code. Javascript, React, Node.
+TML NFT project management. SOL. ETH. BTC.  HODL. 
+Buy high, sell low 
+To da moon 🌚..🚀..💫
+
+
+
 <!--
 **OGOZ111/OGOZ111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
