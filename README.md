@@ -2,10 +2,10 @@
 
 G'day. 
 
-Aussie. Learning to code. Javascript, React, Node.
-TML NFT project management. SOL. ETH. BTC.  HODL. 
-Buy high, sell low. 
-🌚..🚀..💫
+Aussie. Learning to code. Javascript, React, Node. <br>
+TML NFT project management. SOL. ETH. BTC.  HODL. <br>
+Buy high, sell low. 🌚..🚀..💫<br>
+
 
 
 
