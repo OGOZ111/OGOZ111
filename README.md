@@ -4,8 +4,8 @@ G'day.
 
 Aussie. Learning to code. Javascript, React, Node.
 TML NFT project management. SOL. ETH. BTC.  HODL. 
-Buy high, sell low 
-To da moon 🌚..🚀..💫
+Buy high, sell low. 
+🌚..🚀..💫
 
 
 
