@@ -2,7 +2,7 @@
 
 🌐 Take a peep at my [portfolio](https://lukeb-portfolio.netlify.app/) for my current projects. 
 
-## Technologies and Languages I use
+## Here's what I use to get the job done 
 
 - **Languages:** 
   ![HTML](https://img.shields.io/badge/HTML-5-orange?style=flat&logo=html5&logoColor=white)
